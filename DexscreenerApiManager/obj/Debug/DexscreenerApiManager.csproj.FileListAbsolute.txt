@@ -1,0 +1,9 @@
+C:\Users\Moi\RiderProjects\DexscreenerApiManager\DexscreenerApiManager\bin\Debug\DexscreenerApiManager.exe
+C:\Users\Moi\RiderProjects\DexscreenerApiManager\DexscreenerApiManager\bin\Debug\DexscreenerApiManager.pdb
+C:\Users\Moi\RiderProjects\DexscreenerApiManager\DexscreenerApiManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moi\RiderProjects\DexscreenerApiManager\DexscreenerApiManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moi\RiderProjects\DexscreenerApiManager\DexscreenerApiManager\obj\Debug\DexscreenerApiManager.csproj.AssemblyReference.cache
+C:\Users\Moi\RiderProjects\DexscreenerApiManager\DexscreenerApiManager\obj\Debug\DexscreenerApiManager.csproj.CoreCompileInputs.cache
+C:\Users\Moi\RiderProjects\DexscreenerApiManager\DexscreenerApiManager\obj\Debug\DexscreenerApiManager.csproj.CopyComplete
+C:\Users\Moi\RiderProjects\DexscreenerApiManager\DexscreenerApiManager\obj\Debug\DexscreenerApiManager.exe
+C:\Users\Moi\RiderProjects\DexscreenerApiManager\DexscreenerApiManager\obj\Debug\DexscreenerApiManager.pdb
